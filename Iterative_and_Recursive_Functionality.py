@@ -1,3 +1,9 @@
+# Darrell Lawson
+# CIS 261
+# Iterative and Recursive Functionality
+
+
+
 def factorial_recursive(num):
     if num == 0 or num == 1:
         return 1
@@ -28,4 +34,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
